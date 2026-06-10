@@ -1,6 +1,4 @@
-# pip install beautifulsoup4
-# 혹은
-# poetry add beautifulsoup4
+# uv add beautifulsoup4
 from bs4 import BeautifulSoup
 import requests
 from pprint import pprint

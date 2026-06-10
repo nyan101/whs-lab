@@ -1,6 +1,4 @@
-# pip install tqdm
-# 혹은
-# poetry add tqdm
+# uv add tqdm
 from tqdm import tqdm
 import requests
 from pprint import pprint

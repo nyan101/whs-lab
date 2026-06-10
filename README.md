@@ -6,7 +6,7 @@
 
 https://www.python.org/downloads/ 에서 각자 환경에 맞는 버전 설치 권장
 
-### (Optional) Poetry 설치
+### (Optional) uv 설치
 
 **Windows(Powershell)**
 

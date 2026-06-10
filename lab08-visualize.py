@@ -1,8 +1,5 @@
-# pip install matplotlib
-# pip install numpy
-# 혹은
-# poetry add matplotlib
-# poetry add numpy
+# uv add matplotlib
+# uv add numpy
 import numpy as np
 import matplotlib.pyplot as plt
 import requests

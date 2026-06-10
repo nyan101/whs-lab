@@ -1,8 +1,5 @@
-# pip install selenium
-# pip install webdriver-manager
-# 혹은
-# poetry add selenium
-# poetry add webdriver-manager
+# uv add selenium
+# uv add webdriver-manager
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
